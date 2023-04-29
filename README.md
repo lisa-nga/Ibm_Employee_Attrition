@@ -1,4 +1,4 @@
-# Ibm_Employee_Attrition Visualization
+# Ibm_Employee_Attrition_Visualization
 ![](ibm_report2.PNG)
 ![](ibm_report1.PNG)
 
