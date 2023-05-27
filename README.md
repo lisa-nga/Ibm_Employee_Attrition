@@ -6,9 +6,10 @@
 This is an analysis of a fictional dataset created by IBM scientists. 
 
 ## Problem Statement
-1. Uncover the factors that lead to employee attrition and explore important questions such as 
-'show me a breakdown of distance from hom by job and attrition' OR
-'compare average monthly income by beducattion and attrition'.
+1. Uncover the factors that lead to employee attrition and explore important questions such as;
+- What important factors can lead to an employee leaving the organization.
+- How do we improve employee retention.
+- Predict indivedual employee retention 
 
 ## Insight Hint
 A. Education
